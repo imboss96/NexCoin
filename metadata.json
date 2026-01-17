@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Crypto Exchange",
+  "description": "A high-performance, AI-powered cryptocurrency trading platform featuring real-time market data, advanced charting, and Gemini-driven market analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
